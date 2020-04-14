@@ -1,1 +1,1 @@
-Hello honeybunny
+Hello Git and GitHub
